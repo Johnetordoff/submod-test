@@ -1,6 +1,0 @@
-[submodule "waterbutler"]
-	path = waterbutler
-	url = https://github.com/CenterForOpenScience/waterbutler.git
-[submodule "osf.io"]
-	path = osf.io
-	url = https://github.com/CenterForOpenScience/osf.io.git
